@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ansarm
+Hi, I’m @ansarm
+
 I am the former lead guitarist for the heavy metal band "Raid 5".
 
 During the day I am a CyberSecurity Professional who works with cross-platform technologies.
