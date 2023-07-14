@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ansarm
-- I am a CyberSecurity Professional who works with cross-platform technologies.
-- I often write tools in the process of learning new tech.
-- These are my tools.
+I am a CyberSecurity Professional who works with cross-platform technologies.
+I often write tools in the process of learning new tech.
+These are my tools.
 
 
 <!---
