@@ -6,7 +6,7 @@ During the day I am a CyberSecurity Architect.
 
 I often write tools in the process of learning new tech, solving problems or just for the heck of it.
 
-These are my tools.
+These are some of my tools.
 
 
 <!---
